@@ -1,0 +1,9 @@
+{
+    "model_dir": ".git_cml/model",
+    "b1 shape": "(3,)",
+    "b1 dtype": "<f4",
+    "b1 hash": "2c513f149e737ec4063fc1d37aee9beabc4b4bbf",
+    "w1 shape": "(2, 3)",
+    "w1 dtype": "<f4",
+    "w1 hash": "59c9471e0cea30173ce8ca20d743b9a5c14b7647"
+}
