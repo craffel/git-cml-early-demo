@@ -5,5 +5,8 @@
     "b1 hash": "2c513f149e737ec4063fc1d37aee9beabc4b4bbf",
     "w1 shape": "(2, 3)",
     "w1 dtype": "<f4",
-    "w1 hash": "59c9471e0cea30173ce8ca20d743b9a5c14b7647"
+    "w1 hash": "59c9471e0cea30173ce8ca20d743b9a5c14b7647",
+    "w2 shape": "(3, 4)",
+    "w2 dtype": "<f4",
+    "w2 hash": "c17fd92682ca5b304ac71074b558dda9e8eb4d66"
 }
