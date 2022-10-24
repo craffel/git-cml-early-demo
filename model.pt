@@ -2,7 +2,7 @@
     "model_dir": ".git_cml/model",
     "b1 shape": "(3,)",
     "b1 dtype": "<f4",
-    "b1 hash": "2c513f149e737ec4063fc1d37aee9beabc4b4bbf",
+    "b1 hash": "7f30c2e5724a8aab80bf68220cb45f1090ee69df",
     "w1 shape": "(2, 3)",
     "w1 dtype": "<f4",
     "w1 hash": "59c9471e0cea30173ce8ca20d743b9a5c14b7647",
